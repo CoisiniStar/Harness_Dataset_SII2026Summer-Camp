@@ -1,0 +1,57 @@
+[
+  {
+    "domain": "finance",
+    "train_rows": 150,
+    "test_rows": 300,
+    "label_count_train": 19,
+    "label_count_test": 19,
+    "mcs_train": 15,
+    "mcs_test": 45,
+    "injection_train_est": 17,
+    "injection_test_est": 46
+  },
+  {
+    "domain": "ecommerce",
+    "train_rows": 150,
+    "test_rows": 300,
+    "label_count_train": 19,
+    "label_count_test": 19,
+    "mcs_train": 15,
+    "mcs_test": 45,
+    "injection_train_est": 17,
+    "injection_test_est": 46
+  },
+  {
+    "domain": "tech_support",
+    "train_rows": 150,
+    "test_rows": 300,
+    "label_count_train": 19,
+    "label_count_test": 19,
+    "mcs_train": 15,
+    "mcs_test": 45,
+    "injection_train_est": 17,
+    "injection_test_est": 46
+  },
+  {
+    "domain": "medical_triage",
+    "train_rows": 150,
+    "test_rows": 300,
+    "label_count_train": 19,
+    "label_count_test": 19,
+    "mcs_train": 15,
+    "mcs_test": 45,
+    "injection_train_est": 17,
+    "injection_test_est": 46
+  },
+  {
+    "domain": "news_topic",
+    "train_rows": 150,
+    "test_rows": 300,
+    "label_count_train": 19,
+    "label_count_test": 19,
+    "mcs_train": 15,
+    "mcs_test": 45,
+    "injection_train_est": 17,
+    "injection_test_est": 46
+  }
+]
