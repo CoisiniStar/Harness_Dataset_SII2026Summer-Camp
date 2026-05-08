@@ -1,6 +1,6 @@
 # Harness Dataset SII 2026 Summer Camp
 
-本仓库提供用于 **Harness Engineering 文本分类任务** 的多领域 JSONL 数据集。数据集设计目标是帮助评估 Harness 在有限上下文窗口下的泛化能力、鲁棒性和安全性表现。
+本仓库提供用于 **Harness Engineering 文本意图分类任务** 的多领域 JSONL 数据集。数据集设计目标是帮助评估 Harness 在有限上下文窗口下的泛化能力、鲁棒性和安全性表现。
 
 ## 数据集概览
 
