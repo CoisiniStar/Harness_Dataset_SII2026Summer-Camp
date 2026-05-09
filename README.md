@@ -1,6 +1,6 @@
 # Harness Dataset SII 2026 Summer Camp
 
-本仓库提供用于 **Harness Engineering 文本意图分类任务** 的多领域 JSONL 数据集。数据集设计目标是帮助评估 Harness 在有限上下文窗口下的泛化能力、鲁棒性和安全性表现。
+本仓库提供用于 **Harness Engineering 文本意图分类任务** 的多领域 JSONL 数据集。数据集设计目标是帮助评估 Harness 在有限上下文窗口下的泛化能力、鲁棒性和安全性表现。此外，已经上传了自测的solution.py文件，该脚本可在原始的test数据集上取得83.1%的准确率。此外，由于时间原因，Harness工程探索报告中并未使用最强的脚本跑，而是采用了之前81.1%的脚本。以下的数据集虽然在构造上涵盖了多个领域以及每一个领域中包含OOD样本以及防提示词注入样本等，但总体水平可以实现99%的平均准确率。所以属于初始入门版的测试集。
 
 ## 数据集概览
 
@@ -49,6 +49,7 @@ Harness_Dataset_SII2026Summer-Camp/
 │   └── test.jsonl
 ├── manifest.json
 ├── dataset_summary.json
+├── solution.py
 └── README.md
 ```
 
